@@ -1,4 +1,4 @@
-install: ./install-dependencies.sh
+#install: ./install-dependencies.sh
 language: perl
 perl:
   - "5.20"
